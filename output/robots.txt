@@ -1,4 +1,0 @@
-Sitemap: https://pygillier.dev/sitemapindex.xml
-
-User-Agent: *
-Host: pygillier.dev

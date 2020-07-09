@@ -1,0 +1,7 @@
+# Nikola stuff
+.doit.db
+.doit.db.bak
+.doit.db.dat
+.doit.db.dir
+cache
+output
