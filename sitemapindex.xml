@@ -7,18 +7,18 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://pygillier.dev/categories/ec2.xml</loc>
-  <lastmod>2020-07-09T08:12:00Z</lastmod>
+  <lastmod>2021-09-24T08:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://pygillier.dev/categories/python.xml</loc>
-  <lastmod>2020-07-09T08:12:00Z</lastmod>
+  <lastmod>2021-09-24T08:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://pygillier.dev/rss.xml</loc>
-  <lastmod>2020-07-09T08:12:00Z</lastmod>
+  <lastmod>2021-09-24T08:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://pygillier.dev/sitemap.xml</loc>
-  <lastmod>2020-07-09T08:12:00Z</lastmod>
+  <lastmod>2021-09-24T08:39:00Z</lastmod>
  </sitemap>
 </sitemapindex>

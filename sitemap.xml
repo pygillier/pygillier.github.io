@@ -7,30 +7,30 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://pygillier.dev/</loc>
-  <lastmod>2020-07-09T08:12:00Z</lastmod>
+  <lastmod>2021-09-24T08:39:00Z</lastmod>
  </url>
  <url>
   <loc>https://pygillier.dev/2020/</loc>
-  <lastmod>2020-07-09T08:12:00Z</lastmod>
+  <lastmod>2021-09-24T08:39:00Z</lastmod>
  </url>
  <url>
   <loc>https://pygillier.dev/archive.html</loc>
-  <lastmod>2020-07-09T08:12:00Z</lastmod>
+  <lastmod>2021-09-24T08:39:00Z</lastmod>
  </url>
  <url>
   <loc>https://pygillier.dev/categories/</loc>
-  <lastmod>2020-07-09T08:12:00Z</lastmod>
+  <lastmod>2021-09-24T08:39:00Z</lastmod>
  </url>
  <url>
   <loc>https://pygillier.dev/categories/ec2/</loc>
-  <lastmod>2020-07-09T08:12:00Z</lastmod>
+  <lastmod>2021-09-24T08:39:00Z</lastmod>
  </url>
  <url>
   <loc>https://pygillier.dev/categories/python/</loc>
-  <lastmod>2020-07-09T08:12:00Z</lastmod>
+  <lastmod>2021-09-24T08:39:00Z</lastmod>
  </url>
  <url>
   <loc>https://pygillier.dev/posts/ec2-metadata-mock-server/</loc>
-  <lastmod>2020-07-09T08:12:00Z</lastmod>
+  <lastmod>2021-09-24T08:39:00Z</lastmod>
  </url>
 </urlset>
